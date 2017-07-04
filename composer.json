@@ -1,7 +1,10 @@
 {
     "name": "eudj1n/repo7",
     "description": "PHP 7.1 Framework",
-    "keywords": ["framework", "php", "php7"],
+    "keywords": [
+        "repo7", 
+        "framework"
+    ],
     "homepage": "http://github.com/eudj1n/repo7",
     "license": "MIT",
     "authors": [
